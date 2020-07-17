@@ -1,3 +1,4 @@
 Ben Serkan Arslan
 
-(https://github-readme-stats.vercel.app/api?username=mtahiraslan&show_icons=true)
+![Serkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serkanars&show_icons=true)
+
