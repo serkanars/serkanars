@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanars" alt="serkanars" /> </p>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **NLP** and Analytics Problems
 
-- 🌱 I’m currently learning **PyTorch, Flask**
+- 🌱 I’m currently learning **PyTorch, İmage Processing, Speech Regocnation**
 
 - 📫 How to reach me **serkanars@protonmail.com**
 
