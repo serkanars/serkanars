@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PyTorch, İmage Processing, Speech Regocnation**
 
-- 📫 How to reach me **serkanars@protonmail.com**
+- 📫 How to reach me **arslanserkan0@gmail.com**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serkanars&show_icons=true" alt="serkanars" /></p>
