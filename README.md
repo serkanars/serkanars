@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanars" alt="serkanars" /> </p>
 
-- 🔭 I’m currently working on **NLP** and Analytics Problems
-
-- 🌱 I’m currently learning **PyTorch, İmage Processing, Speech Regocnation**
-
 - 📫 How to reach me **arslanserkan0@gmail.com**
 
 
